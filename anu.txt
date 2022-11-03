@@ -1,0 +1,6 @@
+*version controll tool(trak on daily wrk)
+snapshort creation(commit creation),system that keep record of your changes,
+allows for collaborative development
+*git started in 2005
+open source
+repositories(repo),collection of files and histroy
